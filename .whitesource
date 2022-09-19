@@ -3,7 +3,7 @@
     "hostRules": [
     {
       "matchHost": "3.18.145.143:8081/artifactory",     
-      "hostType": "pip",
+      "hostType": "pip"
       }
   ]
 }
