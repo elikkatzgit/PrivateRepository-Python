@@ -1,3 +1,9 @@
 {
-  "settingsInheritedFrom": "elikkatzgit/whitesource-config@master"
+  "settingsInheritedFrom": "elikkatzgit/whitesource-config@master",
+    "hostRules": [
+    {
+      "matchHost": "3.18.145.143:8081/artifactory",     
+      "hostType": "pip",
+      }
+  ]
 }
