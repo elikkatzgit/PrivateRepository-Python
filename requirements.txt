@@ -1,2 +1,2 @@
---index-url=https://3.18.145.143:8081/artifactory/api/pypi/python-remote-elik/simple
+--index-url=https://pypi.elik.com/simple/
 Django == 1.0
