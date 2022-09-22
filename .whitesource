@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "elikkatzgit/whitesource-config@master",
     "hostRules": [
     {
-      "matchHost": "3.18.145.143:8081/artifactory",     
+      "matchHost": "http://3.18.145.143:8081/artifactory/api/pypi/python-remote-elik/simple",     
       "hostType": "pip"
       }
   ]
